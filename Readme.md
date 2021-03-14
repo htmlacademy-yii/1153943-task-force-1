@@ -1,7 +1,7 @@
 # Личный проект «TaskForce»
 
 * Студент: [Владислав Журкин](https://up.htmlacademy.ru/yii/1/user/1153943).
-* Наставник: [Сергей Парфенов](https://htmlacademy.ru/profile/id926645).
+* Наставник: [Кирилл Калиев](https://htmlacademy.ru/profile/id1753945).
 
 ---
 
