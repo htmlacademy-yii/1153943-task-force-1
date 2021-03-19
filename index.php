@@ -1,6 +1,8 @@
 <?php
-set_include_path('classes');
-spl_autoload_register();
+
+require_once 'vendor/autoload.php';
+
+use TaskForse\Task;
 
 $task = new Task(111, 222);
 
