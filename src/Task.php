@@ -1,5 +1,7 @@
 <?php
 
+    namespace TaskForse;
+
     class Task
     {
 
